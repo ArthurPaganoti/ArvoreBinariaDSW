@@ -1,0 +1,9 @@
+
+_
+java:S2259"BA "NullPointerException" could be thrown; "tree" is nullable here.(ÄˆÓ²8•Œ¦í½1
+L	java:S106
+"+Replace this use of System.out by a logger.(ğœîúûÿÿÿÿ8•Œ¦í½1
+L	java:S106"+Replace this use of System.out by a logger.(ËÁ†æøÿÿÿÿ8¥Œ¦í½1
+F	java:S106"+Replace this use of System.out by a logger.(ˆßu8§Œ¦í½1
+G	java:S106"+Replace this use of System.out by a logger.(­ÊÄÆ8§Œ¦í½1
+G	java:S106"+Replace this use of System.out by a logger.(¶ƒö‘8§Œ¦í½1
